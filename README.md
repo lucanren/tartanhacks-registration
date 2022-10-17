@@ -29,4 +29,4 @@ The color palette, font, and screen width breakpoints are specified in `themes/t
 
 The styling of elements such as buttons, icons, backgrounds etc. is specified by the `useStyle` variable in the corresponding file in `src/components/design`.
 
-Page-specific styling is specified by `useStyle` in the file `pages/{page_path}`.
+Page-specific styling is specified by `useStyle` in the file `pages/{page_path}`. 
